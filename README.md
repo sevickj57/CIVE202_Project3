@@ -5,6 +5,8 @@ Includes python code in jupyter notebook visualizing the NGSIM and NHTS data as 
 This Repository Contains the following files:
 - [Gantt chart]()
 - [Engineering_Timesheet]()
+- [NGSIM_data]()
+- [NHTS_data]()  
 - [Scope of Work]()
 - [Project code document](CIVE202_Spring2026_Group19_Project3_PythonCode.ipynb)
 - [Annotated Code Document]()
